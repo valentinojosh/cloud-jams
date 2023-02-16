@@ -1,7 +1,7 @@
-#Description
+# Description
 Weekly updated Spotify Top Global Charts using AWS Lamda, Cloudwatch schedule, Java, JGit, and Spotify Api
 
-#How it works
+# How it works
         //Method that connects to spotify api and retrieves data that will be added in to the file
         Paging<PlaylistTrack> playlistTrackPaging = getSpotifyData();
 
