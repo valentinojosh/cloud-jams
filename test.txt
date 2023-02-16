@@ -1,3 +1,11 @@
+Week 4
+Top Tracks:
+1: Flowers - https://api.spotify.com/v1/tracks/0yLdNVWF3Srea0uzk55zFn
+2: Kill Bill - https://api.spotify.com/v1/tracks/1Qrg8KqiBpW07V7PNxwwwL
+3: Shakira: Bzrp Music Sessions, Vol. 53 - https://api.spotify.com/v1/tracks/4nrPB8O7Y7wsOCJdgXkthe
+4: Boy's a liar Pt. 2 - https://api.spotify.com/v1/tracks/6AQbmUe0Qwf5PZnt4HmTXv
+5: As It Was - https://api.spotify.com/v1/tracks/4Dvkj6JhhA12EX05fT7y2e
+
 Week 3
 Top Tracks:
 1: Flowers
