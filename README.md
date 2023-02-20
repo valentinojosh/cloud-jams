@@ -1,8 +1,6 @@
 # Description
 AWS Lambda function ran weekly by CloudWatch Events to update a text file containing the global top 5 songs on spotify for this week. Function utilizes Java, JGit, and the Spotify Api
 
-Weekly updated Spotify Top Global Charts using AWS Lamda, Cloudwatch schedule, Java, JGit, and Spotify Api
-
 # How it works
         //Method that connects to spotify api and retrieves data that will be added in to the file
         Paging<PlaylistTrack> playlistTrackPaging = getSpotifyData();
