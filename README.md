@@ -10,14 +10,11 @@ This function was created as a demonstration of a simple AWS Lambda function tha
 
 ### Dependencies
 
-*maven or gradle (term) 
-java 11 corretto
-JGIT (v?)
-Spotify api
-se.spotify (v?+name?)
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Maven 4.0.0 (or suitable build automation tool of your choice)
+* Java 11 Corretto
+* JGit 5.1.3
+* Spotify Web API Java 7.3.0
+* Spotify Developer Credentials
 
 ### Installing
 
@@ -30,27 +27,9 @@ se.spotify (v?+name?)
 * Upload the JAR file into an AWS Lambda function running Java 11 Corretto
 * Run via AWS Lambda test with an empty string parameter or schedule a trigger via CloudWatch Events using a cron statement
 
-### Executing program
+## Author
 
-* Simply run the program through your IDE
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
-## Authors
-
-Contributors names and contact info
-
-ex. Josh Valentino  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+[Josh Valentino](https://valentinojosh.github.io/)  
 
 ## Version History
 
