@@ -36,10 +36,10 @@ This function was created as a demonstration of a simple AWS Lambda function tha
 * 0.1
     * Initial Release
     
-##Security Note
+## Security Note
 
 Currently the necesary secrets are hardcoded. Since this function is low impact with limited permissions, security was not an aspect designed for. AWS Secrets Manager is a paid service that would be a great way to impliment secure storage of secrets.
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
