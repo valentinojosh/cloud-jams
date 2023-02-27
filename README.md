@@ -38,7 +38,11 @@ This function was created as a demonstration of a simple AWS Lambda function tha
     
 ## Security Note
 
-Currently the necesary secrets are hardcoded. Since this function is low impact with limited permissions, security was not an aspect designed for. AWS Secrets Manager is a paid service that would be a great way to impliment secure storage of secrets.
+Currently, the necessary secrets are hardcoded. Because this function has low impact and limited permissions, security was not a consideration during its design. Alternative solutions:
+
+* AWS Secrets Manager
+* AWS Key Management Service
+* Environment variables
 
 ## License
 
