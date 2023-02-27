@@ -1,6 +1,6 @@
  # Overview
 
-AWS Lambda function triggered weekly via CloudWatch Events to update a text file containing the global top 5 songs on spotify for the week. This function utilizes Java, JGit, and the Spotify API
+AWS Lambda function triggered weekly via CloudWatch Events to update a text file containing the global top five songs on Spotify for the week. This function utilizes Java, JGit, and the Spotify API
 
 ## Description
 
