@@ -29,7 +29,7 @@ This function was created as a demonstration of a simple AWS Lambda function tha
 
 ## Author
 
-[Josh Valentino](https://valentinojosh.github.io/)  
+[Josh Valentino](https://joshvalentino.com)  
 
 ## Version History
 
