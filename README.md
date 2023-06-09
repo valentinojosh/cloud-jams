@@ -35,6 +35,8 @@ This function was created as a demonstration of a simple AWS Lambda function tha
 
 * 0.1
     * Initial Release
+* 0.2
+    * Changed weekly commit from Friday to Monday
     
 ## Security Note
 
